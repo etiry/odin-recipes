@@ -1,2 +1,1 @@
-# odin-recipes
-TOP recipe website
+This is a project for The Odin Project's Foundations course, which will build a simple recipe website.
